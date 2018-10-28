@@ -66,7 +66,7 @@ Use [pip](https://pypi.python.org/pypi/pip) to install them.
 
 ## Testing
 ```sh
-$ git clone --recursive https://github.com/i-amgeek/MoveHack
+$ git clone --recursive https://github.com/i-amgeek/Computer-vision-parking-assistance
 $ python3.6 -m pip3 install -r requirements.txt
 $ cd test_model
 Download weights from 'https://drive.google.com/open?id=0B76BuJcKjuxqYXRmSzd2R3U4S2c' to test_model/weights .
