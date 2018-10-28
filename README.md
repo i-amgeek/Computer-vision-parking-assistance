@@ -5,7 +5,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
 ![Python Version](https://img.shields.io/badge/pypi-python3.6-blue.svg)
 
-# Centralised Parking Assistance Using Computer Vision
+# Computer Vision Parking Assistance
 
 <p align="center">
 <img src="https://github.com/i-amgeek/MoveHack/blob/master/images/app_logo.png" width = 380 height = 300/>
