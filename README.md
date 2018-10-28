@@ -5,6 +5,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
 ![Python Version](https://img.shields.io/badge/pypi-python3.6-blue.svg)
 
+# PECfest 2018
+
 # Computer Vision Parking Assistance
 
 <p align="center">
@@ -12,7 +14,7 @@
 </p>
 
 ## Problem statement
-Artificial Intelligence for Indian Transport Infrastructure
+Machine learning 
 
 ## Inspiration
 The high demand of automobiles has also exploded the need of parking space. Over 30% of traffic slowdown is caused by parking difficulties taking around 20-25 minutes on average per person. If we could help them, the driving would reduce dramatically, releasing less Carbon Dioxide and clearing up the roads from parking spot hunters. We believe in solutions that are available for all cities to become smart cities.
